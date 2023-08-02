@@ -3,8 +3,7 @@
 
 - 🤔 编写高质量、可维护、易扩展的程序代码
 - :sparkles: 开发3步走，测试->编码->重构
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=visiky" />
+- 
 ## 技术栈
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
